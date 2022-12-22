@@ -91,4 +91,7 @@ mysql2
 Video of E-Commerce Back End
 https://watch.screencastify.com/v/QMPV7bQ9MtWoXCtsVqsj
 
+URL to github 
+https://github.com/Afrema90/Object-Relational-Mapping-ORM-Challenge-E-commerce-Back-End
+
 You can reach me at frema90@gmail.com
