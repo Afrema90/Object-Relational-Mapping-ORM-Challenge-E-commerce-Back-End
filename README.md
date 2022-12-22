@@ -100,3 +100,5 @@ You can reach me at frema90@gmail.com
 <img width="496" alt="Screenshot 2022-12-22 at 3 48 19 PM" src="https://user-images.githubusercontent.com/112598840/209224918-ec2e6e6f-d4e7-4e3e-861f-085dc9f35aad.png">
 <img width="1012" alt="Screenshot 2022-12-22 at 3 50 28 PM" src="https://user-images.githubusercontent.com/112598840/209224945-2bfa18cb-aa88-43cd-8265-788a348898e3.png">
 <img width="979" alt="Screenshot 2022-12-22 at 3 49 40 PM" src="https://user-images.githubusercontent.com/112598840/209224958-51badaa4-f6c1-40c4-a199-7a9bc1dcc056.png">
+
+i did this assinment with the help of my toutor chris B, study partner David, mike
