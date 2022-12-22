@@ -4,18 +4,6 @@ Description
 The purpose of this project was to build a back end for an e-commerce site and to configure a working Express.js API to use Sequelize to interact with a MySQL database in order to perform CRUD operations.
 
 
-Table of Contents
-User Story
-Acceptance Criteria
-Installation
-Usage
-License
-Contributing
-Tests
-Built With
-Walkthrough Video
-
-
 User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
@@ -36,16 +24,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 Installation
-(1) Click here to install Node.js on your local machine if you haven't already done so. Choose the latest LTS version for the most recent stable release.
 
-(2) Download MySQL onto your machine if you haven't already done so. Use the following installation guide for detailed instructions on how to do this:
-https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide
-
-(3) Clone this repository on your local machine.
-
-(4) Navigate to the repository folder.
-
-(5) Type the following command in the command line to download all required packages/modules.dependencies:
+(1) Clone this repository on your local machine.
+(2) Type the following command in the command line to download all required packages/modules.dependencies:
 
 npm install
 
@@ -69,7 +50,7 @@ Query OK, 4 rows affected (0.17 sec)
 Query OK, 1 row affected (0.01 sec)
 (4) Type "quit" in the MySQL command line. Then type the following in the command line to seed the SQL database:
 
-node seeds/index.js
+npm run seeds
 You should see numerous SQL statements and then confirmation of data having been seeded:
 
 alt text
@@ -85,7 +66,7 @@ You should see the following image in your command line indicating that the serv
 alt text
 
 
-(6) You can open API GET routes for categories, products, or tags in Insomnia and view the data for each route in a formatted JSON. You can also test API POST, PUT, and DELETE routes in Insomnia to create, update, and delete data in the database. Visit the Walkthrough Video to see all routes in action in Insomnia. Below is a sample picture of the GET route for all categories in Insomnia:
+(6) Then open API GET routes for categories, products, or tags in Insomnia and view the data for each route in a formatted JSON. You can also test API POST, PUT, and DELETE routes in Insomnia to create, update, and delete data in the database. Visit the Walkthrough Video to see all routes in action in Insomnia. Below is a sample picture of the GET route for all categories in Insomnia:
 
 alt text
 
@@ -96,7 +77,7 @@ https://opensource.org/licenses/ISC
 
 
 Contributing
-This project does not include any contributors
+This project does not include any contributors as this is school wwork
 
 
 Tests
