@@ -79,11 +79,6 @@ https://opensource.org/licenses/ISC
 Contributing
 This project does not include any contributors as this is school wwork
 
-
-Tests
-No tests were utilized in the creation of this application.
-
-
 Built With
 JavaScript
 Node.js
@@ -94,3 +89,6 @@ dotenv
 mysql2
 
 Video of E-Commerce Back End
+https://watch.screencastify.com/v/QMPV7bQ9MtWoXCtsVqsj
+
+You can reach me at frema90@gmail.com
